@@ -2,13 +2,13 @@
   "compilerOptions": {
     "target": "es2016",
     "module": "commonjs",
-    "rootDir": "backend/src",
+    "rootDir": "./src",
     "outDir": "./dist",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["backend/src/**/*"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
