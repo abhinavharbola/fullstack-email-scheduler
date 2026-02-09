@@ -77,7 +77,7 @@ export default function Dashboard() {
             <div className="rounded-lg bg-blue-600 p-2 text-white">
               <Send size={20} />
             </div>
-            <span className="text-xl font-bold text-gray-800">ReachInbox</span>
+            <span className="text-xl font-bold text-gray-800">Reach D. Box</span>
           </div>
           <div className="flex items-center space-x-4">
             <span className="text-sm text-gray-600">

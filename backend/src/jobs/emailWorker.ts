@@ -18,7 +18,7 @@ export const setupWorker = () => {
         // 2. Send Email
         const transporter = await initMailer();
         await transporter.sendMail({
-          from: '"ReachInbox Scheduler" <scheduler@reachinbox.ai>',
+          from: '"Reach D. Box Email Scheduler" <scheduler@reachdbox.ai>',
           to: job.data.recipient,
           subject: job.data.subject,
           text: job.data.body,

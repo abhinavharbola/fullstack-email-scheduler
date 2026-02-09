@@ -21,8 +21,8 @@ export default function Home() {
         <div className="rounded-full bg-blue-600 p-4">
           <Mail size={48} />
         </div>
-        <h1 className="text-3xl font-bold">Email Scheduler</h1>
-        <p className="text-gray-400">Manage your automated campaigns efficiently.</p>
+        <h1 className="text-3xl font-bold">Reach D. Box</h1>
+        <p className="text-gray-400">Manage your automated campaigns like King of Pirates.</p>
         
         <button
           onClick={() => signIn("google")}

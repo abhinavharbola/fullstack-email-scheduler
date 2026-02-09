@@ -6,8 +6,8 @@ import { Providers } from "../utils/providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ReachInbox Scheduler",
-  description: "Schedule your emails efficiently",
+  title: "Reach D. Box",
+  description: "The legendary email scheduler",
 };
 
 export default function RootLayout({
